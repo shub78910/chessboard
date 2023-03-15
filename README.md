@@ -7,11 +7,3 @@ Tech:
 React JS
 
 Hosted URL: https://mini-chessboard.netlify.app/
-
-<center>
-
-```mermaid
-stateDiagram-v2
-add postcode/serviceType/supplierType --> aaa
-```
-</center>
